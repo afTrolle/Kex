@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "main.tex",
-			"settings":
-			{
-				"buffer_size": 90,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -57,10 +49,17 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Surface/Documents/Kex/documentation/thesis"
+		"/C/Users/Surface/Documents/Kex/documentation/thesis",
+		"/C/Users/Surface/Documents/Kex/documentation/thesis/chapters",
+		"/C/Users/Surface/Documents/Kex/documentation/thesis/chapters/Introduction"
 	],
 	"file_history":
 	[
+		"/C/Users/Surface/Documents/Kex/documentation/thesis/Refs/refernces informal database",
+		"/C/Users/Surface/Documents/Kex/documentation/thesis/thesis.sublime-project",
+		"/C/Users/Surface/Documents/Kex/documentation/thesis/main.tex",
+		"/C/Users/Surface/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/Surface/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
 		"/C/Users/Surface/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/README.markdown",
 		"/C/Users/Surface/Documents/Group-4_Developing-Mobile-Applications/Back_end/package.json",
 		"/C/Users/Surface/Documents/Group-4_Developing-Mobile-Applications/Back_end/index.js",
@@ -104,38 +103,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "main.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 90,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								90,
-								90
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
