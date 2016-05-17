@@ -1,0 +1,30 @@
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\bin\Debug\Kinect Gear Application.exe.config
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\bin\Debug\Kinect Gear Application.exe
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\bin\Debug\Kinect Gear Application.pdb
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\Kinect Gear Application.csprojResolveAssemblyReference.cache
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\MainWindow.g.cs
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\App.g.cs
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\Kinect Gear Application_MarkupCompile.cache
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\Kinect Gear Application_MarkupCompile.lref
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\MainWindow.baml
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\Kinect Gear Application.g.resources
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\Kinect_Gear_Application.Properties.Resources.resources
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\Kinect Gear Application.csproj.GenerateResource.Cache
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\Kinect Gear Application.exe
+C:\Users\Surface\AppData\Local\Temporary Projects\Kinect Gear Application\obj\Debug\Kinect Gear Application.pdb
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\bin\Debug\Kinect Gear Application.exe.config
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\bin\Debug\Kinect Gear Application.exe
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\bin\Debug\Kinect Gear Application.pdb
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\Kinect Gear Application.csprojResolveAssemblyReference.cache
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\MainWindow.g.cs
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\App.g.cs
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\Kinect Gear Application_MarkupCompile.cache
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\Kinect Gear Application_MarkupCompile.lref
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\MainWindow.baml
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\Kinect Gear Application.g.resources
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\Kinect_Gear_Application.Properties.Resources.resources
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\Kinect Gear Application.csproj.GenerateResource.Cache
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\Kinect Gear Application.exe
+C:\Users\Surface\Desktop\KexRepository\Server_Kinect_App\Kinect Gear Application\Kinect Gear Application\obj\Debug\Kinect Gear Application.pdb
