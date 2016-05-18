@@ -96,7 +96,16 @@ namespace GearKinect_Application
                     {
                         if (body.IsTracked)
                         {
-                            
+                            if (PlayerController.isIdentificationModeEnabled())
+                            {
+                                if (findIdentificationPose(body))
+                                {
+                                    PlayerController.IdenticationCompleted(body);
+                                }
+                            }
+
+                            PlayerController.updatePlayerPosition(body);
+
                             Joint NeckJoint = body.Joints[JointType.Neck];
                             if (NeckJoint.TrackingState == TrackingState.Tracked)
                             {
@@ -115,6 +124,27 @@ namespace GearKinect_Application
             }
         }
            
+
+        //check is person is holding hand above head and keeping them open.
+        private bool findIdentificationPose(Body person)
+        {
+           if (HandState.Open == person.HandRightState && person.HandLeftState == HandState.Open)
+            {
+                Joint LeftHand = person.Joints[JointType.HandLeft];
+                Joint RightHand = person.Joints[JointType.HandRight];
+                Joint Head = person.Joints[JointType.Head];
+              
+                if (LeftHand.TrackingState == TrackingState.Tracked && RightHand.TrackingState == TrackingState.Tracked && Head.TrackingState == TrackingState.Tracked)
+                {
+                    if (LeftHand.Position.Y  > Head.Position.Y && RightHand.Position.Y > Head.Position.Y)
+                    {
+                        Console.WriteLine("Identified user");
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
 
 
         private void initIrCamera()

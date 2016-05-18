@@ -22,7 +22,7 @@ namespace Kinect_Gear_Application
 
             IPAddress localAddress = getNetworkInterface();
 
-            if (localAddress != null)
+            if (localAddress == null)
             {
                 return new Response(false, "failed finding network interface", null);
             }

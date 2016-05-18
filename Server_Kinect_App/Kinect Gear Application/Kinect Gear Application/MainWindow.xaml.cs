@@ -29,7 +29,7 @@ namespace Kinect_Gear_Application
 
         }
         private KinectHandler kinectHandler = new KinectHandler();
-        private SocketHandler socketHandler = new SocketHandler();
+        private NetworkController socketHandler = new NetworkController();
 
         //init program
         private void OnStartServer(object sender, RoutedEventArgs e)
@@ -40,7 +40,7 @@ namespace Kinect_Gear_Application
             kinectHandler.setIrImage(irImage);
             kinectHandler.setHeadTrackingUI(headTrackingCanvas, TrackedBodyTextBlock);
 
-            res = socketHandler.init();
+            res = socketHandler.initNetworkController();
             isFunctionSuccessful(res);
         }
 
